@@ -1,0 +1,23 @@
+@model MvcApplication.ViewModels.ClassificacoesViewModel
+
+@{
+    ViewBag.Title = "Deletar";
+}
+
+<h2>Delete</h2>
+
+<h3>Confirmar remover a classificação?</h3>
+<fieldset>
+    <legend>Classificação</legend>
+
+    <div class="display-label">Descrição</div>
+    <div class="display-field">@Model.Descricao</div>
+</fieldset>
+@using (Html.BeginForm()) {
+    <p>
+        <input type="submit" value="Deletar" /> |
+        @Html.ActionLink("Voltar", "Index")
+    </p>
+}
+
+

@@ -1,0 +1,17 @@
+@model MvcApplication.ViewModels.TransportadorasViewModel
+
+@{
+    ViewBag.Title = "Deletar transportadora";
+}
+
+<h2>Deletar</h2>
+
+<h3>Confirma deletar a transportadora @Model.Descricao?</h3>
+@using (Html.BeginForm()) {
+    <p>
+        <input type="submit" value="Confirmar" /> |
+        @Html.ActionLink("Voltar", "Index")
+    </p>
+}
+
+

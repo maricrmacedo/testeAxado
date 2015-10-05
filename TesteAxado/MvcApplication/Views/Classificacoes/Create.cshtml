@@ -1,0 +1,25 @@
+@model MvcApplication.ViewModels.ClassificacoesViewModel
+
+@{
+    ViewBag.Title = "Criar";
+}
+
+Nova classificação
+@using (Html.BeginForm()) {
+    @Html.ValidationSummary(true)
+    <fieldset>
+        <legend>Classificação</legend>
+
+		@Html.Partial("_CreateOrEdit", Model)
+        <br />
+        <p>
+            <input type="submit" value="Salvar" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+

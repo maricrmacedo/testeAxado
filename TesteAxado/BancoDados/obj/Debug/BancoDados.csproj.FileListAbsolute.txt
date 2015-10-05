@@ -1,0 +1,77 @@
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\Exercicios.dll
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\Exercicios.pdb
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\Antlr3.Runtime.dll
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\DotNetOpenAuth.Core.dll
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\EntityFramework.dll
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\Newtonsoft.Json.dll
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\System.Web.Helpers.dll
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\System.Web.Mvc.dll
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\System.Web.Optimization.dll
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\System.Web.Razor.dll
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\System.Web.WebPages.Deployment.dll
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\System.Web.WebPages.dll
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\System.Web.WebPages.Razor.dll
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\WebGrease.dll
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\WebMatrix.Data.dll
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\WebMatrix.WebData.dll
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\EntityFramework.xml
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\Newtonsoft.Json.xml
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\System.Web.Helpers.xml
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\System.Web.Mvc.xml
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\System.Web.Razor.xml
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\System.Web.WebPages.xml
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\System.Web.WebPages.Deployment.xml
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\System.Web.WebPages.Razor.xml
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\WebMatrix.Data.xml
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\WebMatrix.WebData.xml
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\DotNetOpenAuth.Core.xml
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\obj\Debug\BancoDados.csprojResolveAssemblyReference.cache
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\obj\Debug\Exercicios.dll
+C:\Users\maric_000\Documents\Visual Studio 2012\Projects\Exercicios\Exercicios\obj\Debug\Exercicios.pdb
+C:\Users\maric_000\Documents\GitHub\TesteAxado\BancoDados\bin\BancoDados.dll
+C:\Users\maric_000\Documents\GitHub\TesteAxado\BancoDados\bin\BancoDados.pdb
+C:\Users\maric_000\Documents\GitHub\TesteAxado\BancoDados\bin\EntityFramework.dll
+C:\Users\maric_000\Documents\GitHub\TesteAxado\BancoDados\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maric_000\Documents\GitHub\TesteAxado\BancoDados\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\maric_000\Documents\GitHub\TesteAxado\BancoDados\bin\System.Web.Helpers.dll
+C:\Users\maric_000\Documents\GitHub\TesteAxado\BancoDados\bin\System.Web.Mvc.dll
+C:\Users\maric_000\Documents\GitHub\TesteAxado\BancoDados\bin\System.Web.Optimization.dll
+C:\Users\maric_000\Documents\GitHub\TesteAxado\BancoDados\bin\System.Web.Razor.dll
+C:\Users\maric_000\Documents\GitHub\TesteAxado\BancoDados\bin\System.Web.WebPages.Deployment.dll
+C:\Users\maric_000\Documents\GitHub\TesteAxado\BancoDados\bin\System.Web.WebPages.dll
+C:\Users\maric_000\Documents\GitHub\TesteAxado\BancoDados\bin\System.Web.WebPages.Razor.dll
+C:\Users\maric_000\Documents\GitHub\TesteAxado\BancoDados\bin\WebMatrix.Data.dll
+C:\Users\maric_000\Documents\GitHub\TesteAxado\BancoDados\bin\WebMatrix.WebData.dll
+C:\Users\maric_000\Documents\GitHub\TesteAxado\BancoDados\bin\EntityFramework.xml
+C:\Users\maric_000\Documents\GitHub\TesteAxado\BancoDados\bin\Newtonsoft.Json.xml
+C:\Users\maric_000\Documents\GitHub\TesteAxado\BancoDados\bin\System.Web.Helpers.xml
+C:\Users\maric_000\Documents\GitHub\TesteAxado\BancoDados\bin\System.Web.Mvc.xml
+C:\Users\maric_000\Documents\GitHub\TesteAxado\BancoDados\bin\System.Web.Razor.xml
+C:\Users\maric_000\Documents\GitHub\TesteAxado\BancoDados\bin\System.Web.WebPages.xml
+C:\Users\maric_000\Documents\GitHub\TesteAxado\BancoDados\bin\System.Web.WebPages.Deployment.xml
+C:\Users\maric_000\Documents\GitHub\TesteAxado\BancoDados\bin\System.Web.WebPages.Razor.xml
+C:\Users\maric_000\Documents\GitHub\TesteAxado\BancoDados\bin\WebMatrix.Data.xml
+C:\Users\maric_000\Documents\GitHub\TesteAxado\BancoDados\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\maric_000\Documents\GitHub\TesteAxado\BancoDados\bin\WebMatrix.WebData.xml
+C:\Users\maric_000\Documents\GitHub\TesteAxado\BancoDados\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\maric_000\Documents\GitHub\TesteAxado\BancoDados\bin\DotNetOpenAuth.Core.xml
+C:\Users\maric_000\Documents\GitHub\TesteAxado\BancoDados\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\maric_000\Documents\GitHub\TesteAxado\BancoDados\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\maric_000\Documents\GitHub\TesteAxado\BancoDados\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\maric_000\Documents\GitHub\TesteAxado\BancoDados\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\maric_000\Documents\GitHub\TesteAxado\BancoDados\obj\Debug\BancoDados.csprojResolveAssemblyReference.cache
+C:\Users\maric_000\Documents\GitHub\TesteAxado\BancoDados\obj\Debug\BancoDados.dll
+C:\Users\maric_000\Documents\GitHub\TesteAxado\BancoDados\obj\Debug\BancoDados.pdb

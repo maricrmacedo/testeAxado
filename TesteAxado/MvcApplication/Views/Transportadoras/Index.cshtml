@@ -1,0 +1,47 @@
+@model IEnumerable<MvcApplication.ViewModels.TransportadorasViewModel>
+
+@{
+    ViewBag.Title = "Transportadoras";
+}
+@section featured {
+    <section class="featured">
+        <div class="content-wrapper">
+            <hgroup class="title">
+                <h1>@ViewBag.Title</h1>
+            </hgroup>
+        </div>
+    </section>
+}
+
+<p>
+   <b> @Html.ActionLink("Nova transportadora", "Create")</b>
+</p>
+<table class="table table-hover">
+    <tr>
+        <th>
+            Id
+        </th>
+        <th>
+            Descrição
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+			@item.Id
+        </td>
+        <td>
+			@item.Descricao
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>
+
+

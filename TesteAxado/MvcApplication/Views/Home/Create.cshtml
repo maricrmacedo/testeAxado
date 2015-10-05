@@ -1,0 +1,39 @@
+@model MvcApplication.ViewModels.AvaliacoesViewModel
+
+@{
+    ViewBag.Title = "Nova avaliação";
+}
+
+<h2>Nova avaliação</h2>
+<br />
+@using (Html.BeginForm()) {
+    @Html.ValidationSummary(true)
+    <fieldset>
+        <legend>Avaliação</legend>
+
+		<div class="editor-label">
+            Transportadora:
+        </div>
+        <div class="editor-field">
+            @Html.DropDownListFor(m => m.TransportadoraId, new SelectList(Model.Transportadoras, "id", "descricao"))
+        </div>
+        <br />
+        <div class="editor-label">
+            Classificação:
+        </div>
+        <div class="editor-field">
+            @Html.DropDownListFor(m => m.ClassificacaoId, new SelectList(Model.Classificacoes, "id", "descricao"))
+        </div>
+
+        <br />
+        <p>
+            <input type="submit" value="Salvar" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+
